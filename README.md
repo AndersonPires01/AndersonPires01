@@ -1,10 +1,11 @@
 
 
 <h1 align="center">Oi 👋, Eu sou o Anderson Pires</h1>
--
+
 
   <h3>Sou um Analista de Dados em Formação 🚧</h3>
 
+  
 - 👯 Eu procuro colaborar em **Projetos em Análise de Dados**
 
 - 📫 Fale comigo **www.linkedin.com/in/anderson-pires/**
@@ -12,8 +13,7 @@
 - 🌱 Atualmente estou aprendendo PowerBI e storytelling
 
 - 💞️Estou aberto a colaborar em projetos de análise de dados; voluntário ou não.
-
-
+________
 <h3> Skills and Tools: 🛠️</h3>
 <h3>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60px">
