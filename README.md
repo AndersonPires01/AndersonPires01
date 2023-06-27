@@ -3,7 +3,7 @@
 <h1 align="center">Oi 👋, Eu sou o Anderson Pires</h1>
 -
 
-<h3 align="center">Sou um Analista de Dados em Formação 🚧</h3>
+  <h3>Sou um Analista de Dados em Formação 🚧</h3>
 
 - 👯 Eu procuro colaborar em **Projetos em Análise de Dados**
 
