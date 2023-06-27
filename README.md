@@ -13,7 +13,7 @@
 
 - 💞️Estou aberto a colaborar em projetos de análise de dados; voluntário ou não.
 
-<img src="https://pt.wikipedia.org/wiki/Ficheiro:Jupyter_logo.svg">
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 
