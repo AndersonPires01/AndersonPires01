@@ -14,8 +14,12 @@
 - 💞️Estou aberto a colaborar em projetos de análise de dados; voluntário ou não.
 
 
+<h3> Skills and Tools: 🛠️</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60px"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60px"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60px">
+
+
+
 <!--
-**AndersonPires01/AndersonPires01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
