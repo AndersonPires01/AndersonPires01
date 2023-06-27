@@ -13,9 +13,6 @@
 
 - 💞️Estou aberto a colaborar em projetos de análise de dados; voluntário ou não.
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!--
 **AndersonPires01/AndersonPires01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
