@@ -10,7 +10,7 @@
 
 - 📫 Fale comigo **www.linkedin.com/in/anderson-pires/**
 
-- 🌱 Atualmente estou aprendendo PowerBI e storytelling
+- 🌱 Atualmente estou aprendendo PowerBI e storytelling com analise de dados
 
 - 💞️Estou aberto a colaborar em projetos de análise de dados; voluntário ou não.
 ________
