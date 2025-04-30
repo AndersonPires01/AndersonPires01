@@ -3,9 +3,6 @@
 <h1 align="center">Oi 👋, Eu sou o Anderson Pires</h1>
 
 
-  <h3>Sou um Analista de Dados em Formação 🚧</h3>
-
-
 
 - 📫 Fale comigo **www.linkedin.com/in/anderson-pires/**
 
