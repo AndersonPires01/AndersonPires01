@@ -5,8 +5,7 @@
 
   <h3>Sou um Analista de Dados em Formação 🚧</h3>
 
-  
-- 👯 Eu procuro colaborar em **Projetos em Análise de Dados**
+
 
 - 📫 Fale comigo **www.linkedin.com/in/anderson-pires/**
 
